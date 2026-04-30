@@ -1,7 +1,7 @@
 include:
-  - board: seeeduino_xiao_ble_sense
+  - board: xiao_ble_sense
     shield: totem_left
-  - board: seeeduino_xiao_ble_sense
+  - board: xiao_ble_sense
     shield: totem_right
-  - board: seeeduino_xiao_ble_sense
+  - board: xiao_ble_sense
     shield: settings_reset
